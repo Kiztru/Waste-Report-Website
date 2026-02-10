@@ -1,4 +1,4 @@
-# Marine Waste Reporting Website 🌊
+# Marine Waste Reporting Website
 
 This web application enables users to **report marine waste**, The project was developed to raise awareness of marine pollution and support environmental monitoring efforts.
 
