@@ -1,6 +1,6 @@
 # Marine Waste Reporting Website 🌊
 
-This web application enables users to **report marine waste** and classify its type using a **machine learning model** built with [Teachable Machine](https://teachablemachine.withgoogle.com/). The project was developed to raise awareness of marine pollution and support environmental monitoring efforts.
+This web application enables users to **report marine waste**, The project was developed to raise awareness of marine pollution and support environmental monitoring efforts.
 
 ---
 
