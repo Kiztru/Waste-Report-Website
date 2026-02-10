@@ -17,7 +17,8 @@ This web application enables users to **report marine waste**, The project was d
 
 - **Frontend:** HTML, CSS, JavaScript, Leaflet.js  
 - **Backend:** PHP for form handling and validation  
-- **Database:** MySQL (or any PHP-compatible database)  
+- **Database:** MySQL (or any PHP-compatible database)
+- **Website link:** https://kiztru.github.io/Waste-Report-Website/
 
 ---
 
