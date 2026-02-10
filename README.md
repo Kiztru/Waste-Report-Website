@@ -25,17 +25,27 @@ This web application enables users to **report marine waste** and classify its t
 
 project-root/
 │
+
 ├── index.html # Main page with map and form
+
 ├── style.css # User interface styling
+
 ├── script.js # Leaflet map integration + client-side form logic
+
 ├── classify.js # Connects Teachable Machine model for image classification
+
 ├── submit.php # Processes and validates form submissions
+
 ├── db_config.php # Database connection credentials
+
 ├── uploads/ # (Optional) Stores uploaded images if enabled
+
 └── README.md # Project documentation
 
 yaml
+
 Copy
+
 Edit
 
 ---
